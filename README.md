@@ -31,8 +31,6 @@ cd myvenv\Scripts\activate
 pip install -r requirements.txt
 ```
 
----
-
 
 3. **Create .env**
 ```
