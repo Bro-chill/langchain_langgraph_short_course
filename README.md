@@ -26,8 +26,15 @@ This course is design to get familiar with langchain and langgraph stack to buil
 python -m venv myvenv
 cd myvenv\Scripts\activate
 ```
+2. **Install requirements.txt**
+```
+pip install -r requirements.txt
+```
 
-2. **Create .env**
+---
+
+
+3. **Create .env**
 ```
 # Gemini LLM (https://ai.google.dev/gemini-api)
 GEMINI_KEY=
